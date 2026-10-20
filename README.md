@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ibnu Musa 👋
 
-<!--
-**ibnumusa/ibnumusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate (2026) building skills as a **SOC analyst**.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔬 Building a Wazuh + Sysmon detection lab
+- 📚 TryHackMe SOC Level 1 path
+- 🐍 Python scripts for IOC enrichment and log parsing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+`Networking` `Python` `Wazuh` `Log Analysis` `MITRE ATT&CK`
+
+## Find me
+- LinkedIn: [add your link later]
+- TryHackMe: [add your profile link]
+
+📍 Somalia | Open to junior SOC roles (local and remote)
