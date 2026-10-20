@@ -1,6 +1,6 @@
-# Hi, I'm Ibnu Musa 👋
+# Hi, I'm Ladnan Musa (Ibnu Musa) 👋
 
-Cybersecurity graduate (2027) building skills as a **SOC analyst**.
+Cybersecurity student at Amoud University (graduating September 2027), building skills as a **SOC analyst**.
 
 ## What I'm working on
 - 🔬 Building a Wazuh + Sysmon detection lab
