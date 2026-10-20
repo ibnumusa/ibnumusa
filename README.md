@@ -1,6 +1,6 @@
 # Hi, I'm Ibnu Musa 👋
 
-Cybersecurity graduate (2026) building skills as a **SOC analyst**.
+Cybersecurity graduate (2027) building skills as a **SOC analyst**.
 
 ## What I'm working on
 - 🔬 Building a Wazuh + Sysmon detection lab
